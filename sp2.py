@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+###########
+#ZIOALFINO#
+###########
+
+
 def main():
 	import os
 	from os import path as y
